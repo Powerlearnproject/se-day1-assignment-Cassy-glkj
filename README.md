@@ -41,15 +41,16 @@ Time constraints is one of the most common challenges, a lot of time is required
 Maintaining the code quailty is also a common challenge, the quality of your code is always expected to be the same when you do updates or the quality is also sometimes expected to improve.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit-
-Integration-
-System-
-Acceptance-
+Unit- This is where individual components are tested of the software. The importance is to see if they are working as expected. 
+Integration- This is where you test to see if the different units of the software are working together correctly.Verifies that the units are working together as intended. 
+System- This is to test the complete system and if it meets all the specific requirements.Validates that the software is working as required.
+Acceptance- This is to validate that the software meets the clients requirements. Validate if the software is working up to standard to what the client has required for the software to do.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is when you design and refine the prompts that are put into AI-models to achieve more accurate and relevant results. The more you interact with AI-models the more they learn.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+"Tell me something interesting". Can you tell me about the Big Bang Theory and how the first stars were born based on this theory?
